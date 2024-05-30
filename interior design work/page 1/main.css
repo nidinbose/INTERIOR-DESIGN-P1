@@ -1,0 +1,61 @@
+.btn1{
+    column-gap: 5%;
+}
+.slide1{
+    position: relative;
+}
+
+.up1 button{
+   width: 15vw;
+   border-radius: 10px;
+   height:7vh ;
+   font-weight: 600;
+   background-color: transparent; 
+   border: 2px solid #007BFF; 
+   color: #007BFF; 
+   padding: 10px 20px; 
+   font-size: 16px; 
+   cursor: pointer; 
+   transition: background-color 0.3s, color yellow;
+ }
+ 
+ .up1 h1{
+    color:  #faf8f9;
+    border-color: white;
+    border: 2px;
+  
+    width:40%;
+    font-size: 70px;
+ }
+
+ .up1{
+    position: absolute;
+    bottom: 20%;
+    left: 10%;
+
+ }
+
+ .up1 p{
+    font-size: 2vw;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #007BFF;
+ }
+
+ .up1 h1{
+  
+   color: white;
+   transition: color 0.9s ease, font-size 0.9s ease;
+}
+
+.up1 h1:hover {
+   color: rgb(40, 160, 197);
+   
+}
+
+
+
+
+
+ 
+
